@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/adding"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/reviewing"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/storage/json"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/adding"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/reviewing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/storage/json"
 )
 
 func main() {

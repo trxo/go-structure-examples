@@ -6,12 +6,12 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/katzien/go-structure-examples/domain/adding"
-	"github.com/katzien/go-structure-examples/domain/beers"
-	"github.com/katzien/go-structure-examples/domain/listing"
-	"github.com/katzien/go-structure-examples/domain/reviewing"
-	"github.com/katzien/go-structure-examples/domain/reviews"
-	"github.com/katzien/go-structure-examples/domain/storage"
+	"github.com/trxo/go-structure-examples/domain/adding"
+	"github.com/trxo/go-structure-examples/domain/beers"
+	"github.com/trxo/go-structure-examples/domain/listing"
+	"github.com/trxo/go-structure-examples/domain/reviewing"
+	"github.com/trxo/go-structure-examples/domain/reviews"
+	"github.com/trxo/go-structure-examples/domain/storage"
 )
 
 func main() {

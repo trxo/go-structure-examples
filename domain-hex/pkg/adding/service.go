@@ -2,7 +2,7 @@ package adding
 
 import (
 	"errors"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/listing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/listing"
 )
 
 // ErrDuplicate is used when a beer already exists.

@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/katzien/go-structure-examples/domain/beers"
-	"github.com/katzien/go-structure-examples/domain/reviews"
+	"github.com/trxo/go-structure-examples/domain/beers"
+	"github.com/trxo/go-structure-examples/domain/reviews"
 	"github.com/nanobox-io/golang-scribble"
 )
 

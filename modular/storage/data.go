@@ -3,8 +3,8 @@ package storage
 import (
 	"time"
 
-	"github.com/katzien/go-structure-examples/modular/beers"
-	"github.com/katzien/go-structure-examples/modular/reviews"
+	"github.com/trxo/go-structure-examples/modular/beers"
+	"github.com/trxo/go-structure-examples/modular/reviews"
 )
 
 // PopulateBeers populates the Cellar variable with Beers

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/katzien/go-structure-examples/domain-hex/pkg/reviewing"
+import "github.com/trxo/go-structure-examples/domain-hex/pkg/reviewing"
 
 var DefaultReviews = []reviewing.Review{
 	{BeerID: "1", FirstName: "Joe", LastName: "Tribiani", Score: 5, Text: "This is good but this is not pizza!"},

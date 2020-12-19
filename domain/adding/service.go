@@ -1,7 +1,7 @@
 package adding
 
 import (
-	"github.com/katzien/go-structure-examples/domain/beers"
+	"github.com/trxo/go-structure-examples/domain/beers"
 )
 
 // Service provides beer adding operations

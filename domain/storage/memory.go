@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/katzien/go-structure-examples/domain/beers"
-	"github.com/katzien/go-structure-examples/domain/reviews"
+	"github.com/trxo/go-structure-examples/domain/beers"
+	"github.com/trxo/go-structure-examples/domain/reviews"
 )
 
 // Memory storage keeps beer data in memory

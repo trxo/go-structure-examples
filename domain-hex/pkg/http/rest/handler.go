@@ -7,9 +7,9 @@ import (
 	"strconv"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/adding"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/listing"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/reviewing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/adding"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/listing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/reviewing"
 )
 
 func Handler(a adding.Service, l listing.Service, r reviewing.Service) http.Handler {

@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/katzien/go-structure-examples/layered/models"
+	"github.com/trxo/go-structure-examples/layered/models"
 )
 
 // PopulateBeers populates the Cellar variable with Beers

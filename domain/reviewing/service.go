@@ -1,7 +1,7 @@
 package reviewing
 
 import (
-	"github.com/katzien/go-structure-examples/domain/reviews"
+	"github.com/trxo/go-structure-examples/domain/reviews"
 )
 
 // Service provides review adding operations

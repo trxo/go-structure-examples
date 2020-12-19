@@ -1,7 +1,7 @@
 package adding
 
 import (
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/listing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/listing"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/katzien/go-structure-examples/domain-hex-actor/pkg/adding"
-	"github.com/katzien/go-structure-examples/domain-hex-actor/pkg/listing"
-	"github.com/katzien/go-structure-examples/domain-hex-actor/pkg/reviewing"
+	"github.com/trxo/go-structure-examples/domain-hex-actor/pkg/adding"
+	"github.com/trxo/go-structure-examples/domain-hex-actor/pkg/listing"
+	"github.com/trxo/go-structure-examples/domain-hex-actor/pkg/reviewing"
 	"github.com/nanobox-io/golang-scribble"
 	"path"
 	"runtime"

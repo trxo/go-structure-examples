@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/katzien/go-structure-examples/modular/storage"
+	"github.com/trxo/go-structure-examples/modular/storage"
 )
 
 // GetBeerReviews returns all reviews for a beer

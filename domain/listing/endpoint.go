@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/katzien/go-structure-examples/domain/beers"
+	"github.com/trxo/go-structure-examples/domain/beers"
 )
 
 type Handler func(http.ResponseWriter, *http.Request, httprouter.Params)

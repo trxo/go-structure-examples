@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/katzien/go-structure-examples/domain-hex-actor/pkg/adding"
-	"github.com/katzien/go-structure-examples/domain-hex-actor/pkg/reviewing"
-	"github.com/katzien/go-structure-examples/domain-hex-actor/pkg/storage/json"
+	"github.com/trxo/go-structure-examples/domain-hex-actor/pkg/adding"
+	"github.com/trxo/go-structure-examples/domain-hex-actor/pkg/reviewing"
+	"github.com/trxo/go-structure-examples/domain-hex-actor/pkg/storage/json"
 )
 
 type Message interface{}

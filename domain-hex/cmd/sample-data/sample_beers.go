@@ -1,6 +1,6 @@
 package main
 
-import "github.com/katzien/go-structure-examples/domain-hex/pkg/adding"
+import "github.com/trxo/go-structure-examples/domain-hex/pkg/adding"
 
 var DefaultBeers = []adding.Beer{
 	{

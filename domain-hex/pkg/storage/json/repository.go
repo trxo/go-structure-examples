@@ -3,15 +3,15 @@ package json
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/storage"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/storage"
 	"log"
 	"path"
 	"runtime"
 	"time"
 
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/adding"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/listing"
-	"github.com/katzien/go-structure-examples/domain-hex/pkg/reviewing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/adding"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/listing"
+	"github.com/trxo/go-structure-examples/domain-hex/pkg/reviewing"
 	"github.com/nanobox-io/golang-scribble"
 )
 
